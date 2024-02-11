@@ -1,0 +1,1 @@
+Used a Kaggle dataset of different houses which I cleaned using Excel and then saved the excel file as clean_train.csv and later preprocessed and then applied different Machine Learning algorithms to predict the house prices.
